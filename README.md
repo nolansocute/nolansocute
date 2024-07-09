@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nolanyay&show_icons=true&locale=en&layout=compact" alt="nolanyay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nolanyay&show_icons=true&locale=en" alt="nolanyay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nolanyay&" alt="nolanyay" /></p>
+
+
 
